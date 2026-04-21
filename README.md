@@ -1,6 +1,6 @@
-# Student-Report-Card
 
-<h1>Student Score Tracker</h1>
+
+<h1>Student Report Card</h1>
 <h2>Introduction</h2>
 <p>
 This project is a simple web application built using React. It allows users to manage a list of students along with their scores. The main purpose of this project is to demonstrate basic concepts of React such as component structure, state management, and user interaction in a clear and simple way.
